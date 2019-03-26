@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CC validacia</title>
+	<title>KK validacia</title>
 </head>
 <body>
 <form action="kk.php" method="post">
